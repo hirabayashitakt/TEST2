@@ -18,7 +18,7 @@ namespace PictureZoomScroll2
         {
             InitializeComponent();
         }
-
+        //
         private void Form1_Load(object sender, EventArgs e)
         {
             // 画像指定
