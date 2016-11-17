@@ -1,0 +1,8 @@
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\bin\Debug\PictureForm.exe.config
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\bin\Debug\PictureForm.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\bin\Debug\PictureForm.pdb
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\obj\Debug\PictureForm.Form1.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\obj\Debug\PictureForm.Properties.Resources.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\obj\Debug\PictureForm.csproj.GenerateResource.Cache
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\obj\Debug\PictureForm.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureForm\obj\Debug\PictureForm.pdb

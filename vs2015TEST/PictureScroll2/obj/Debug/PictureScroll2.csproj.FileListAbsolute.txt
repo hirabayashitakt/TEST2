@@ -1,0 +1,8 @@
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\bin\Debug\PictureScroll2.exe.config
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\bin\Debug\PictureScroll2.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\bin\Debug\PictureScroll2.pdb
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\obj\Debug\PictureScroll2.Form1.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\obj\Debug\PictureScroll2.Properties.Resources.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\obj\Debug\PictureScroll2.csproj.GenerateResource.Cache
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\obj\Debug\PictureScroll2.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureScroll2\obj\Debug\PictureScroll2.pdb

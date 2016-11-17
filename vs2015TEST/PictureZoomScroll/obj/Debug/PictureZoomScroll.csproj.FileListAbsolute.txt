@@ -1,0 +1,9 @@
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\bin\Debug\PictureZoomScroll.exe.config
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\bin\Debug\PictureZoomScroll.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\bin\Debug\PictureZoomScroll.pdb
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\obj\Debug\PictureZoomScroll.Form1.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\obj\Debug\PictureZoomScroll.Properties.Resources.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\obj\Debug\PictureZoomScroll.csproj.GenerateResource.Cache
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\obj\Debug\PictureZoomScroll.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\obj\Debug\PictureZoomScroll.pdb
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\PictureZoomScroll\obj\Debug\PictureZoomScroll.csprojResolveAssemblyReference.cache

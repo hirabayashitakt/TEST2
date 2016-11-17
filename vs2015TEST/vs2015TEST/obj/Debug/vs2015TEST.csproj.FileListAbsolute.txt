@@ -1,0 +1,9 @@
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\bin\Debug\vs2015TEST.exe.config
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\bin\Debug\vs2015TEST.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\bin\Debug\vs2015TEST.pdb
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\obj\Debug\vs2015TEST.csprojResolveAssemblyReference.cache
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\obj\Debug\vs2015TEST.Form1.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\obj\Debug\vs2015TEST.Properties.Resources.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\obj\Debug\vs2015TEST.csproj.GenerateResource.Cache
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\obj\Debug\vs2015TEST.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\vs2015TEST\obj\Debug\vs2015TEST.pdb

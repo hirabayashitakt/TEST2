@@ -1,0 +1,8 @@
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\bin\Debug\Pictures.exe.config
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\bin\Debug\Pictures.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\bin\Debug\Pictures.pdb
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\obj\Debug\Pictures.Form1.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\obj\Debug\Pictures.Properties.Resources.resources
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\obj\Debug\Pictures.csproj.GenerateResource.Cache
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\obj\Debug\Pictures.exe
+E:\97_VS2015テストプロジェクト\TEST\vs2015TEST\Pictures\obj\Debug\Pictures.pdb
